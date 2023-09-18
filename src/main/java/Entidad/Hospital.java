@@ -5,8 +5,9 @@
 package Entidad;
 
 /**
- *
- * @author zero
+ *El hospital, primero que nada, debe registrar familias; Cada familia tiene los siguientes datos:
+Dirección IDE
+N° de lote Barrio Localidad
  */
 public class Hospital {
     
